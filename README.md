@@ -72,7 +72,7 @@ Now, remember, this is just a sample.  You can write a cover letter in any forma
 
 - **Who** - Who you are.  Easy enough.
 - **Where** - Where you're coming from.
-- **Why** - Why you're interested in this company, and show that you researched them.
+- **Why** - Why you're interested in this company, and show that you researched them.  If the company publicly mentions their mission statement, make sure to mention it as well.
 - **What** - What you can bring to the table.
 - **When** - When you're available to start, and when they can contact you.
 - **How** - How they can reach you.
