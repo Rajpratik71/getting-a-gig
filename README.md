@@ -10,6 +10,7 @@ This is a guide for getting a gig in college as a tech major.  I graduated May 2
 - Introduction (you read that already)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
+- [Making a Personal Site](#making-a-personal-site)
 - [Your Attitude](#your-attitude)
 - [Your Skills](#your-skills)
   - Building Them
@@ -38,6 +39,13 @@ Recruiters are looking for a short summary of you.  They're reading several resu
 ### Remove irrelevant information.
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
+
+### How to list your experience.
+I'd first start by listing the Name, Company, Location, and How long you worked there. For the description- each bullet point should be phrased in way that you: 1. Show what you did 2. Talk about how you did it 3.What the result & impact was. It's important to note that you should quantify your impact! For example, if the project you did saved the company money, mention the dollar amount. If it sped up the existing services, give a percentage or time. 
+
+### Add Projects.
+Just like extra curriculars, projects are huge in landing internships when you may not have any professional experience. I would mention what your project was, the technologies you used to implement it, and who you worked with. If the project was for a class, mention that. If it was for a hackathon, definitely mention that. Employers love to see that you're active in the community and go to events like hackathons. 
+
 
 ### Don't make it a scavenger hunt.
 When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
@@ -79,6 +87,10 @@ Now, remember, this is just a sample.  You can write a cover letter in any forma
 - **What** - What you can bring to the table.
 - **When** - When you're available to start, and when they can contact you.
 - **How** - How they can reach you.
+
+# Making a Personal Site
+
+I'm adding this section because I've found making a personal site has been really helpful in my internship search. I say this because it gives me more room to talk about my projects, my work history, and my interests apart from programming. It's also a way to access all my social media info I want to share (github, linkedin, twitter) in a concise manner. [Github-Pages](https://pages.github.com/) has a great guide on how to set up a personal site for free!
 
 # Your Attitude
 
@@ -211,6 +223,7 @@ Otherwise, when people don't work, we always have the glorious internet leading 
 
 Like I mentioned before, there's a lot of resources out there for finding events.  Now that you have places to go to, what do you do there?
 WHAT A CLEVER SEGUE.
+
 
 ## Networking
 
