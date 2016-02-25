@@ -41,7 +41,9 @@ I know that lifeguarding in high school was a good gig that helped you gain peop
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
 
 ### How to list your experience.
-I'd first start by listing the Name, Company, Location, and How long you worked there. For the description- each bullet point should be phrased in way that you: 1. Show what you did 2. Talk about how you did it 3.What the result & impact was. It's important to note that you should quantify your impact! For example, if the project you did saved the company money, mention the dollar amount. If it sped up the existing services, give a percentage or time. 
+I'd first start by listing the Name, Company, Location, and How long you worked there. For the description- each bullet point should be phrased in way that you: 1. Show what you did 2. Talk about how you did it 3. What the result & impact was. It's important to note that you should quantify your impact! For example, if the project you did saved the company money, mention the dollar amount. If it sped up the existing services, give a percentage or time. 
+
+One bullet point from my resume is "Co-developed the architecture and the backend for our MVP using Python, Flask, PostgreSQL, AWS, and Heroku, which helped result in $100k of seed funding from a Silicon Valley incubator". Here I mention what I did (co-developed the archiecture and MVP for our backend), how I did it (Python, Flask...), and the impact (resulted in $100k of seed funding).
 
 ### Add Projects.
 Just like extra curriculars, projects are huge in landing internships when you may not have any professional experience. I would mention what your project was, the technologies you used to implement it, and who you worked with. If the project was for a class, mention that. If it was for a hackathon, definitely mention that. Employers love to see that you're active in the community and go to events like hackathons. 
