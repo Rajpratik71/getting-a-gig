@@ -94,7 +94,7 @@ Now, remember, this is just a sample.  You can write a cover letter in any forma
 
 # Making a Personal Site
 
-I'm adding this section because I've found making a personal site has been really helpful in my internship search. I say this because it gives me more room to talk about my projects, my work history, and my interests apart from programming. It's also a way to access all my social media info I want to share (github, linkedin, twitter) in a concise manner. [Github-Pages](https://pages.github.com/) has a great guide on how to set up a personal site for free!
+I'm adding this section because I've found making a personal site has been really helpful in my internship search. I say this because it gives me more room to talk about my projects, my work history, and my interests apart from programming. It's also a way to access all my social media info I want to share (github, linkedin, twitter) in a concise manner. [Github-Pages](https://pages.github.com/) has a great guide on how to set up a personal site for free! Here's [my personal site](http://varunmved.github.io) for reference.
 
 # Your Attitude
 
