@@ -294,10 +294,23 @@ In addition to these fellowships, several companies offer special programs for y
 # Sac State Specifics
 
 ## ECS Career Page
+
 The [career page](http://career.ecs.csus.edu/) on the ECS site is a good resource to find jobs and post your resume directly to the job board. The career fair is coming up on March 4th, so get your resume done and research the companies you want to speak to.
 
 ## Sacramento Tech Meetups
-Despite what people say, there's a growing tech scene in Sacramento. A
+
+Sacramento's tech scene is on the up and up lately. As result there's a LOT of really cool meetups that happen in the area, most of which are completely free. I've met a lot of really smart people here, and learned a lot of new things. There are also people constantly hiring so it's great to find work. Here's a list of just a few of them, all you have to do is RSVP:
+
+-[Code4Sac](http://www.meetup.com/Code4Sac/)
+-[Startup Sac](http://www.meetup.com/startupsac/)
+-[GDG Sacramento](http://www.meetup.com/gdgsacramento/)
+-[Women in Data Science](http://www.meetup.com/Sacramento-Women-in-Data-Science-and-Tech/)
+-[Sacramento Area C++](http://www.meetup.com/Sacramento-Area-C/)
+-[The Sacramento Ruby Meetup](http://www.meetup.com/sacruby/)
+-[The Sacramento JavaScript Meetup](http://www.meetup.com/The-Sacramento-Javascript-Meetup/)
+-[The Sacramento Web Developer's Meetup](http://www.meetup.com/sacwebdev/v)
+-[Sacramento Angular Meetup](http://www.meetup.com/Sacramento-Angular-Meetup/)
+-[Reacto: The Sacramento React Meetup](http://www.meetup.com/Sacramento-ReactJS-Meetup/)
 
 # Conclusion
 
