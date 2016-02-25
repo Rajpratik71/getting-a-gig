@@ -49,6 +49,7 @@ One bullet point from my resume is "Co-developed the architecture and the backen
 ### Add Projects.
 Just like extra curriculars, projects are huge in landing internships when you may not have any professional experience. I would mention what your project was, the technologies you used to implement it, and who you worked with. If the project was for a class, mention that. If it was for a hackathon, definitely mention that. Employers love to see that you're active in the community and go to events like hackathons. 
 
+Here's one project I have listed on my resume "Tejava- Retsly Zip.code 2015: Created the backend and algorithms of a web app that finds home listings within a commuting time of a given address. We created the polygon of travel times using an algorithm similar to Uber’s ETA engine (Python, Heroku, Flask, AWS MySQL, Google Maps & Retsly APIs)" I talk about what I made (web app that finds home listings..), whas aspect I worked on (backend and algorithms), and I list some of the technologies I used. 
 
 ### Don't make it a scavenger hunt.
 When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know. 
@@ -143,6 +144,10 @@ Here's a checklist of things that you should probably be prepared to know in a t
   - Selection
   - Merge
   - Quick
+- Recursion
+  - Basic recursive solutions
+  - Dynamic Programming
+  - Memoization
 - Time Complexities
 
 This guide isn't for teaching you these skills.  But there are several guides, problem sets, and practice systems out there that can help.
@@ -207,7 +212,7 @@ You have a resume and cover letter in hand, and you have the skills to make anyo
 
 ## Events
 
-When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run.
+When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run. Going to a small state school, I can't stress the importance of going to events. If you try to apply outside of the area and they read your resume, a lot of people haven't heard of Sac State. However they have heard of "CalHacks" or some other large scale hackathon you went to.
 
 The biggies that you will definitely run into are:
 - Hackathons
