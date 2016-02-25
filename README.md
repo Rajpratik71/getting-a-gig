@@ -300,7 +300,7 @@ In addition to these fellowships, several companies offer special programs for y
 
 ## ECS Career Page
 
-The [career page](http://career.ecs.csus.edu/) on the ECS site is a good resource to find jobs and post your resume directly to the job board. The career fair is coming up on March 4th, so get your resume done and research the companies you want to speak to.
+The [career page](http://career.ecs.csus.edu/) on the ECS site is a good resource to find jobs and post your resume directly to the job board. The [career fair](https://career.ecs.csus.edu/career-day/job-fair.php) is coming up on March 4th, so get your resume done and research the companies you want to speak to.
 
 ## Sacramento Tech Meetups
 
