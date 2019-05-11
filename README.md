@@ -10,6 +10,7 @@ This is a guide for getting a gig in college as a tech major.  I graduated May 2
 - Introduction (you read that already)
 - [Your Resume](#your-resume)
 - [Your Cover Letter](#your-cover-letter)
+- [Making a Personal Site](#making-a-personal-site)
 - [Your Attitude](#your-attitude)
 - [Your Skills](#your-skills)
   - Building Them
@@ -20,6 +21,7 @@ This is a guide for getting a gig in college as a tech major.  I graduated May 2
   - Referrals
   - Cold Calling
   - Fellowships
+- [Sac State Specifics](#sac-state-specifics)
 - [Conclusion](#conclusion)
 
 # Your Resume
@@ -38,6 +40,16 @@ Recruiters are looking for a short summary of you.  They're reading several resu
 ### Remove irrelevant information.
 I know that lifeguarding in high school was a good gig that helped you gain people skills and attention to detail.  But you're in tech.  That doesn't matter as much to tech companies.  Sorry, buddy.  I still think you're great with people.
 When you're a first semester freshman, it's okay to have old high school stuff on there, just because it's less likely that you have other things to put on your resume.  But as soon as you have a college GPA to work with, a club or two, and some volunteer experiences to replace that, do it.
+
+### How to list your experience.
+I'd first start by listing the Name, Company, Location, and How long you worked there. For the description- each bullet point should be phrased in way that you: 1. Show what you did 2. Talk about how you did it 3. What the result & impact was. It's important to note that you should quantify your impact! For example, if the project you did saved the company money, mention the dollar amount. If it sped up the existing services, give a percentage or time. 
+
+One bullet point from my resume is "Co-developed the architecture and the backend for our MVP using Python, Flask, PostgreSQL, AWS, and Heroku, which helped result in $100k of seed funding from a Silicon Valley incubator". Here I mention what I did (co-developed the archiecture and MVP for our backend), how I did it (Python, Flask...), and the impact (resulted in $100k of seed funding).
+
+### Add Projects.
+Just like extra curriculars, projects are huge in landing internships when you may not have any professional experience. I would mention what your project was, the technologies you used to implement it, and who you worked with. If the project was for a class, mention that. If it was for a hackathon, definitely mention that. Employers love to see that you're active in the community and go to events like hackathons. 
+
+Here's one project I have listed on my resume "Tejava- Retsly Zip.code 2015: Created the backend and algorithms of a web app that finds home listings within a commuting time of a given address. We created the polygon of travel times using an algorithm similar to Uber’s ETA engine (Python, Heroku, Flask, AWS MySQL, Google Maps & Retsly APIs)" I talk about what I made (web app that finds home listings..), whas aspect I worked on (backend and algorithms), and I list some of the technologies I used. 
 
 ### Don't make it a scavenger hunt.
 When an application reviewer (engineer, recruiter, or otherwise) is looking over your resume, don't make it difficult for them to understand who you are and what you know.
@@ -79,6 +91,10 @@ Now, remember, this is just a sample.  You can write a cover letter in any forma
 - **What** - What you can bring to the table.
 - **When** - When you're available to start, and when they can contact you.
 - **How** - How they can reach you.
+
+# Making a Personal Site
+
+I'm adding this section because I've found making a personal site has been really helpful in my internship search. I say this because it gives me more room to talk about my projects, my work history, and my interests apart from programming. It's also a way to access all my social media info I want to share (github, linkedin, twitter) in a concise manner. [Github-Pages](https://pages.github.com/) has a great guide on how to set up a personal site for free! Here's [my personal site](http://varunmved.github.io) for reference.
 
 # Your Attitude
 
@@ -128,6 +144,10 @@ Here's a checklist of things that you should probably be prepared to know in a t
   - Selection
   - Merge
   - Quick
+- Recursion
+  - Basic recursive solutions
+  - Dynamic Programming
+  - Memoization
 - Time Complexities
 
 This guide isn't for teaching you these skills.  But there are several guides, problem sets, and practice systems out there that can help.
@@ -195,7 +215,7 @@ You have a resume and cover letter in hand, and you have the skills to make anyo
 
 ## Events
 
-When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run.
+When you're on the hunt for a great internship or first job, the events you go to can really set you apart, and will help you meet people that could potentially help you in the long run. Going to a small state school, I can't stress the importance of going to events. If you try to apply outside of the area and they read your resume, a lot of people haven't heard of Sac State. However they have heard of "CalHacks" or some other large scale hackathon you went to.
 
 The biggies that you will definitely run into are:
 - Hackathons
@@ -214,6 +234,7 @@ Otherwise, when people don't work, we always have the glorious internet leading 
 
 Like I mentioned before, there's a lot of resources out there for finding events.  Now that you have places to go to, what do you do there?
 WHAT A CLEVER SEGUE.
+
 
 ## Networking
 
@@ -273,6 +294,27 @@ In addition to these fellowships, several companies offer special programs for y
 
 - [Microsoft Explore](https://careers.microsoft.com/us/en/usexploremicrosoftprogram) (I'm biased because I did this one, but this program is AWESOME)
 - [Google Engineering Practicum](https://careers.google.com/students/)
+
+# Sac State Specifics
+
+## ECS Career Page
+
+The [career page](http://career.ecs.csus.edu/) on the ECS site is a good resource to find jobs and post your resume directly to the job board. The [career fair](https://career.ecs.csus.edu/career-day/job-fair.php) is coming up on March 4th, so get your resume done and research the companies you want to speak to.
+
+## Sacramento Tech Meetups
+
+Sacramento's tech scene is on the up and up lately. As result there's a LOT of really cool meetups that happen in the area, most of which are completely free. I've met a lot of really smart people here, and learned a lot of new things. There are also people constantly hiring so it's great to find work. Here's a list of just a few of them, all you have to do is RSVP:
+
+- [Code4Sac](http://www.meetup.com/Code4Sac/)
+- [Startup Sac](http://www.meetup.com/startupsac/)
+- [GDG Sacramento](http://www.meetup.com/gdgsacramento/)
+- [Women in Data Science](http://www.meetup.com/Sacramento-Women-in-Data-Science-and-Tech/)
+- [Sacramento Area C++](http://www.meetup.com/Sacramento-Area-C/)
+- [The Sacramento Ruby Meetup](http://www.meetup.com/sacruby/)
+- [The Sacramento JavaScript Meetup](http://www.meetup.com/The-Sacramento-Javascript-Meetup/)
+- [The Sacramento Web Developer's Meetup](http://www.meetup.com/sacwebdev/v)
+- [Sacramento Angular Meetup](http://www.meetup.com/Sacramento-Angular-Meetup/)
+- [Reacto: The Sacramento React Meetup](http://www.meetup.com/Sacramento-ReactJS-Meetup/)
 
 # Conclusion
 
